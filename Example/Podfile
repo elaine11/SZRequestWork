@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SZRequestWork_Example' do
+  pod 'SZRequestWork', :path => '../'
+
+  target 'SZRequestWork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
