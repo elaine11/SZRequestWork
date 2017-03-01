@@ -1,0 +1,6 @@
+framework module SZRequestWork {
+  umbrella header "SZRequestWork-umbrella.h"
+
+  export *
+  module * { export * }
+}

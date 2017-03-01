@@ -1,0 +1,16 @@
+PODS:
+  - SZRequestWork (0.1.0)
+
+DEPENDENCIES:
+  - SZRequestWork (from `../`)
+
+EXTERNAL SOURCES:
+  SZRequestWork:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SZRequestWork: 6a4e83b3586a637dde3595987c1c6e2e085a36f9
+
+PODFILE CHECKSUM: 6d419afe75cfa9030eaf77614da9df33edfb2283
+
+COCOAPODS: 1.2.0

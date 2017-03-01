@@ -1,0 +1,22 @@
+{
+  "name": "SZRequestWork",
+  "version": "0.1.0",
+  "summary": "A short description of SZRequestWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/m15040424605_1@163.com/SZRequestWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "m15040424605_1@163.com": "m15040424605_1@163.com"
+  },
+  "source": {
+    "git": "https://github.com/m15040424605_1@163.com/SZRequestWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SZRequestWork/Classes/**/*"
+}
