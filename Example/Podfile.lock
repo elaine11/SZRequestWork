@@ -1,5 +1,9 @@
 PODS:
-  - SZRequestWork (0.1.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SZRequestWork (0.1.0):
+    - SDWebImage
 
 DEPENDENCIES:
   - SZRequestWork (from `../`)
@@ -9,7 +13,8 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SZRequestWork: 6a4e83b3586a637dde3595987c1c6e2e085a36f9
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SZRequestWork: 9a4c58a9e3a7fe9a3861c52cf0e5e4994bcce7a2
 
 PODFILE CHECKSUM: 6d419afe75cfa9030eaf77614da9df33edfb2283
 
